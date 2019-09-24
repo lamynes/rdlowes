@@ -76,10 +76,14 @@
             },
             "H1": {
               "text-align": "center",
-              "color": "#ff0000"
+              "color": "#f11010"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#000000"
+            },
+            "h1": {
+              "color": "red",
+              "text-shadow": "2px 2px 4px #000000"
             }
           },
           "_name": "header2",
@@ -89,7 +93,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
@@ -601,6 +607,10 @@
             },
             ".nav-link:hover, .dropdown-item:hover": {
               "color": "@itemsHoverColor !important"
+            },
+            "h1": {
+              "color": "red",
+              "text-shadow": "2px 2px 4px #000000"
             }
           },
           "_name": "menu1",
@@ -610,7 +620,9 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,

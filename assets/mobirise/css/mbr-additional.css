@@ -1331,11 +1331,15 @@ body {
 }
 .cid-rD1fBmLMIO H1 {
   text-align: center;
-  color: #ff0000;
+  color: #f11010;
 }
 .cid-rD1fBmLMIO .mbr-text,
 .cid-rD1fBmLMIO .mbr-section-btn {
   color: #000000;
+}
+.cid-rD1fBmLMIO h1 {
+  color: red;
+  text-shadow: 2px 2px 4px #000000;
 }
 .cid-rD1iWgmeEr {
   padding-top: 60px;
@@ -1792,6 +1796,10 @@ body {
 .cid-rD1hih0BuR .nav-link:hover,
 .cid-rD1hih0BuR .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rD1hih0BuR h1 {
+  color: red;
+  text-shadow: 2px 2px 4px #000000;
 }
 .cid-rD1jIFBrVI {
   padding-top: 60px;
