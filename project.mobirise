@@ -665,10 +665,6 @@
             },
             ".nav-link:hover, .dropdown-item:hover": {
               "color": "@itemsHoverColor !important"
-            },
-            "h1": {
-              "color": "red",
-              "text-shadow": "2px 2px 4px #000000"
             }
           },
           "_name": "menu1",
