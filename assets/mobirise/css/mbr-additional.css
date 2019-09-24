@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,14 +21,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 4.25rem;
+  font-family: 'Merriweather', serif;
+  font-size: 5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -48,7 +49,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
@@ -61,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4rem;
+    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -168,8 +169,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #ff0000 !important;
+  border-color: #ff0000 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -177,14 +178,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #b30000 !important;
+  border-color: #b30000 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #0d6786 !important;
-  border-color: #0d6786 !important;
+  background-color: #b30000 !important;
+  border-color: #b30000 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -332,22 +333,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #0b566f;
-  color: #0b566f;
+  border-color: #990000;
+  color: #990000;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #149dcc;
-  border-color: #149dcc;
+  background-color: #ff0000;
+  border-color: #ff0000;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
+  background-color: #ff0000 !important;
+  border-color: #ff0000 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -467,7 +468,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #149dcc !important;
+  color: #ff0000 !important;
 }
 .text-success {
   color: #cebfaf !important;
@@ -493,7 +494,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #0b566f !important;
+  color: #990000 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -641,7 +642,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1322,11 +1323,19 @@ body {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #ffffff !important;
-  background: #149dcc !important;
+  background: #ff0000 !important;
   box-shadow: none !important;
 }
 .cid-rD1fBmLMIO {
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/does-painting-exterior-house-add-value-1500x1000.jpg");
+}
+.cid-rD1fBmLMIO H1 {
+  text-align: center;
+  color: #ff0000;
+}
+.cid-rD1fBmLMIO .mbr-text,
+.cid-rD1fBmLMIO .mbr-section-btn {
+  color: #000000;
 }
 .cid-rD1iWgmeEr {
   padding-top: 60px;
@@ -1384,12 +1393,12 @@ body {
 }
 .cid-rD1hih0BuR .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-rD1hih0BuR .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #000000;
 }
 .cid-rD1hih0BuR a {
   font-style: normal;
@@ -1480,7 +1489,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rD1hih0BuR .dropdown .dropdown-menu {
-  background: #333333;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1628,11 +1637,6 @@ body {
 .cid-rD1hih0BuR .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rD1hih0BuR .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 1024px) {
-  .cid-rD1hih0BuR .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-rD1hih0BuR .collapsed button.navbar-toggler {
   display: block;
