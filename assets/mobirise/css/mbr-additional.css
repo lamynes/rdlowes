@@ -1327,7 +1327,7 @@ body {
   box-shadow: none !important;
 }
 .cid-rD1fBmLMIO {
-  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1920x920.jpg");
 }
 .cid-rD1fBmLMIO H1 {
   text-align: center;
@@ -1335,10 +1335,14 @@ body {
 }
 .cid-rD1fBmLMIO .mbr-text,
 .cid-rD1fBmLMIO .mbr-section-btn {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-rD1fBmLMIO h1 {
   color: red;
+  text-shadow: 2px 2px 4px #000000;
+}
+.cid-rD1fBmLMIO .mbr-text {
+  color: white;
   text-shadow: 2px 2px 4px #000000;
 }
 .cid-rD1iWgmeEr {
