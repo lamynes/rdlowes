@@ -397,7 +397,8 @@
         "title": "Amazon Search",
         "order": 1,
         "header_custom": "",
-        "footer_custom": "<script type=\"text/javascript\">\n    amzn_assoc_ad_type = \"link_enhancement_widget\";\n    amzn_assoc_tracking_id = \"lamynespl-20\";\n    amzn_assoc_linkid = \"0e029c6d7592b73810cf6570ec558d54\";\n    amzn_assoc_placement = \"\";\n    amzn_assoc_marketplace = \"amazon\";\n    amzn_assoc_region = \"US\";\n</script>\n<script src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US\"></script>"
+        "footer_custom": "",
+        "html_before": "<script type=\"text/javascript\">\n    amzn_assoc_ad_type = \"link_enhancement_widget\";\n    amzn_assoc_tracking_id = \"lamynespl-20\";\n    amzn_assoc_linkid = \"0e029c6d7592b73810cf6570ec558d54\";\n    amzn_assoc_placement = \"\";\n    amzn_assoc_marketplace = \"amazon\";\n    amzn_assoc_region = \"US\";\n</script>\n<script src=\"//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US\"></script>"
       },
       "components": [
         {
