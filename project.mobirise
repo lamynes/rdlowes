@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-24_1440",
-    "currentPage": "amazon-search.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,8 +47,8 @@
         "url": "https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 17,
-    "versionPublish": "4.10.8",
+    "uniqCompNum": 18,
+    "versionPublish": "4.11.4",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -58,7 +58,7 @@
         "title": "RD LOWES, INC.",
         "meta_descr": "For affordable painting and power washing, reach out to RD LOWES, INC. today at 251-471-0028.  ",
         "header_custom": "",
-        "footer_custom": "<script type='text/javascript' src='https://housecallpro.com/assets/BookingBar.js?company=792bdb3bfa86428b8bbe4de222f1bcde&path=RD'></script>",
+        "footer_custom": "<script type='text/javascript' src='https://housecallpro.com/assets/BookingBar.js?company=792bdb3bfa86428b8bbe4de222f1bcde&path=RD'>\n\n<script type=\"text/javascript\">\n(function(w, d, s, u) {\n\tw.Verloop = function(c) { w.Verloop._.push(c) }; w.Verloop._ = []; w.Verloop.url = u;\n\tvar h = d.getElementsByTagName(s)[0], j = d.createElement(s); j.async = true;\n\tj.src = 'https://lamynespl.verloop.io/livechat/script.min.js';\n\th.parentNode.insertBefore(j, h);\n})(window, document, 'script', 'https://lamynespl.verloop.io/livechat');\n</script>",
         "html_before": ""
       },
       "components": [
@@ -853,11 +853,11 @@
           "_name": "video2",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=m7crnlsAaNo&loop=0&autoplay=1\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "rFhenpy6ny",
+          "_anchor": "video2-g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video2-g"
+          "_params": {}
         }
       ]
     }
