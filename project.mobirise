@@ -49,7 +49,16 @@
     ],
     "uniqCompNum": 18,
     "versionPublish": "4.11.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-13-at-10.41.56-pm-1024x1024-2-128x56.png",
+    "": "on",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined",
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
