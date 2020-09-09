@@ -10,11 +10,11 @@ body {
 }
 .display-1 {
   font-family: 'Merriweather', serif;
-  font-size: 3.6rem;
+  font-size: 4.6rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.76rem;
+  font-size: 7.36rem;
 }
 .display-2 {
   font-family: 'Merriweather', serif;
@@ -55,9 +55,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.88rem;
-    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.68rem;
+    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.6rem;
