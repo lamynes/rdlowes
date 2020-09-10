@@ -637,6 +637,9 @@ section.lazy-placeholder:after {
 .cid-rD1fBmLMIO H3 {
   color: #000000;
 }
+.cid-rD1fBmLMIO h1 {
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.4), 0px -5px 35px rgba(255, 255, 255, 0.3);
+}
 .cid-sa5wXek1hu {
   padding-top: 30px;
   padding-bottom: 30px;
