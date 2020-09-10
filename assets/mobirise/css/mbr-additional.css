@@ -666,7 +666,7 @@ section.lazy-placeholder:after {
 .cid-sa5seNWSfK {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/paint2520guide-prep-1600x1067.jpg");
+  background-image: url("../../../assets/images/j-js-final-coat-painting-inc-lph-during13-e1522791727593.webp");
 }
 .cid-sa5seNWSfK h2 {
   text-align: left;
@@ -711,6 +711,11 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-sa5seNWSfK .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-sa5seNWSfK .media-container-row {
+    -webkit-flex-direction: row-reverse;
   }
 }
 @media (max-width: 991px) {
@@ -718,6 +723,13 @@ section.lazy-placeholder:after {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-sa5seNWSfK .media-container-row {
+    -webkit-flex-direction: column-reverse;
   }
 }
 @media (max-width: 300px) {
@@ -726,7 +738,16 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sa5seNWSfK P {
-  color: #000000;
+  color: #ffffff;
+}
+.cid-sa5seNWSfK H2 {
+  color: #ffffff;
+}
+.cid-sa5seNWSfK .mbr-text {
+  color: #ffffff;
+}
+.cid-sa5seNWSfK H4 {
+  color: #ffffff;
 }
 .cid-sa5BfhLLHK .navbar {
   background: #ffffff;
@@ -1191,4 +1212,7 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-sa5DqVZev0 .copyright > p {
+  color: #000000;
 }
