@@ -645,17 +645,18 @@ section.lazy-placeholder:after {
 .cid-sa5wXek1hu {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #910909;
 }
 .cid-sa5wXek1hu .line {
-  background-color: #ff0000;
-  color: #ff0000;
+  background-color: #ffffff;
+  color: #ffffff;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-sa5wXek1hu .section-text {
   padding: 2rem 0;
+  color: #ffffff;
 }
 .cid-sa5wXek1hu .inner-container {
   margin: 0 auto;
