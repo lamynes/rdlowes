@@ -1497,9 +1497,9 @@ section.lazy-placeholder:after {
   text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.4), 0px -5px 35px rgba(255, 255, 255, 0.3);
 }
 .cid-sac6o2mYJd {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1920x1240.jpg");
 }
 .cid-sac6o2mYJd .mbr-text,
 .cid-sac6o2mYJd .mbr-section-btn {
@@ -1508,7 +1508,7 @@ section.lazy-placeholder:after {
 }
 .cid-sac6o2mYJd H2 {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-sac6o2mYJd H3 {
   text-align: center;
