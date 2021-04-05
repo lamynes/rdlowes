@@ -42,11 +42,11 @@ body {
 }
 .display-7 {
   font-family: 'Lora', serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -531,11 +531,11 @@ a:hover {
 /* Scroll to top button*/
 .form-control {
   font-family: 'Lora', serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 blockquote {
   border-color: #9f0a0a;
@@ -1022,15 +1022,6 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 h3 {
   font-style: normal;
   text-shadow: 10px 15px 20px #000000;
-}
-.cid-stJobF8H19 {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-stJobF8H19 .mbr-text,
-.cid-stJobF8H19 blockquote {
-  color: #9f0a0a;
 }
 .cid-stISIg5Omn {
   padding-top: 30px;
