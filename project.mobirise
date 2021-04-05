@@ -1111,6 +1111,10 @@
             },
             "H2": {
               "color": "#ffffff"
+            },
+            "h2": {
+              "font-style": "normal",
+              "text-shadow": "10px 15px 25px #000000"
             }
           },
           "_name": "content5",
@@ -1121,7 +1125,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
@@ -1661,6 +1667,10 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            "h2": {
+              "font-style": "normal",
+              "text-shadow": "10px 15px 25px #000000"
             }
           },
           "_name": "content5",
@@ -1671,7 +1681,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
@@ -2210,6 +2222,10 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            "h2": {
+              "font-style": "normal",
+              "text-shadow": "10px 15px 25px #000000"
             }
           },
           "_name": "content5",
@@ -2220,7 +2236,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
