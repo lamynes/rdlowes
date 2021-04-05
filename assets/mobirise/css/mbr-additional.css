@@ -42,11 +42,11 @@ body {
 }
 .display-7 {
   font-family: 'Lora', serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -531,11 +531,11 @@ a:hover {
 /* Scroll to top button*/
 .form-control {
   font-family: 'Lora', serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 blockquote {
   border-color: #9f0a0a;
