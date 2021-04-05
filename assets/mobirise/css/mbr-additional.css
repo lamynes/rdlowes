@@ -1023,9 +1023,18 @@ section.lazy-placeholder:after {
   font-style: normal;
   text-shadow: 10px 15px 25px #000000;
 }
+.cid-stJobF8H19 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-stJobF8H19 .mbr-text,
+.cid-stJobF8H19 blockquote {
+  color: #9f0a0a;
+}
 .cid-stISIg5Omn {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-stISIg5Omn .mbr-text,
