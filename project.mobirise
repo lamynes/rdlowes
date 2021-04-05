@@ -2490,7 +2490,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/127912838-4632925916782766-819137794196993989-n-960x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -2510,7 +2510,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/127934217-4632916493450375-2837051477608458268-n-960x720.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -2526,7 +2526,7 @@
                 "contentAlign": "left",
                 "text": "Our team has the experience to get the job done well and on time.&nbsp; Where Production Meets Quality.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/rd-lowes-inc-4-800x600.jpg",
@@ -2546,26 +2546,6 @@
                 "contentAlign": "right",
                 "text": "We'll consult with you to get the exact color scheme you are looking for.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/rd-lowes-inc-5-800x600.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "CUSTOM INTERIOR COLORS",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Pick the colors you LOVE and we'll make the dream home you always wanted.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.1"
               },
               {
@@ -2584,9 +2564,9 @@
                 "textTitle": "NEW HOME SPECIALISTS",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "We are well known as the NEW HOME SPECIALIST in the Mobile and Baldwin County areas.&nbsp;",
+                "text": "We are well known as the NEW HOME SPECIALIST in the Mobile and Baldwin County areas.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/pass-chateau-condos-900-delchamps-ave-dauphin-island-al-36528-2-1340x585.png",
@@ -2601,12 +2581,12 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "<p>CONDOMINIUMS</p>",
+                "textTitle": "CONDOMINIUMS",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "We also specialize in Condominiums.&nbsp; The perfect way to keep the value of your beach getaway.",
+                "text": "Painting is the perfect way to increase the value of your beach getaway.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0"
               }
             ]
           },
