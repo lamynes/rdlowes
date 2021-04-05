@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RD LOWES, INC",
-    "currentPage": "residential_painting.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -16,7 +16,7 @@
         "display1Font": "Lora",
         "display1Size": 4.25,
         "display2Font": "Lobster",
-        "display2Size": "4",
+        "display2Size": "3.8",
         "display5Font": "Lora",
         "display5Size": 1.5,
         "display7Font": "Lora",
@@ -71,7 +71,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "5.3.0",
     "favicon": false,
     "noImageResize": "",
@@ -561,6 +561,26 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">New Homes, Residential, Light Commercial</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "stK4xZbHOO",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content4-1d"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
@@ -570,7 +590,7 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Painting, Power Washing, Sheetrock Repairs, Carpentry and miscellaneous Handyman jobs. RD LOWES, INC. is proud to announce that we are celebrating our 25th year in business. After 25 years our motto has remained the same. \"<b><i>Where Production Meets Quality</i></b>\". </p><p>With 25 years of servicing the Gulf Coast, we know just how to tackle any project that you may have in mind. Known as a <i>New Home Painting Specialist</i> with over 5000 new homes, but we also take care of Property Managers and Individuals, Residential or Commercial.</p><p>We guarantee your satisfaction with every job and specialize in providing our customers with quality painters and paints, together with a productive system that provides our customers with the perfect combination of cost and quality. We offer residential painting, small commercial painting, and power washing.\n<span style=\"font-size: 1rem;\"></span></p><p>Residential painting is a great way to give your home the face-lift it needs. Painting can restore and rejuvenate the interior or exterior of your home while also restoring the way you feel about your home. It can add character to any room and has the ability to increase the value of your property as well.\n<span style=\"font-size: 1rem;\"></span></p><p>Small commercial painting focuses on small businesses. A good paint job can increase the curb appeal of your business and increase your customer draw. It can liven up the interior of your building and make it more appealing for potential buyers if you decide that you want to sell.\n<span style=\"font-size: 1rem;\"></span></p><p>Lastly, we provide power washing. Over the years your home and business will become coated in dirt, bacteria, mold, mildew, and other filth. These take away from the appeal of your property and are also hazardous to your health. Power washing is one of the best ways to get rid of this filth. It also helps to maintain your building as well.\n<span style=\"font-size: 1rem;\"></span></p><p>For painting and power washing in Mobile, AL, look no further than RD LOWES, INC. Get in touch with us today.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Painting, Power Washing, Sheetrock Repairs, Carpentry and miscellaneous Handyman jobs. RD LOWES, INC. is proud to announce that we are celebrating our 25th year in business. After 25 years our motto has remained the same. \"<b><i>Where Production Meets Quality</i></b>\". </p><p>With 25 years of servicing the Gulf Coast, we know just how to tackle any project that you may have in mind. Known as a <i>New Home Painting Specialist</i> with over 5000 new homes, but we also take care of Property Managers and Individuals, Residential or Commercial.</p><p>We guarantee your satisfaction with every job and specialize in providing our customers with quality painters and paints, together with a productive system that provides our customers with the perfect combination of cost and quality. We offer residential painting, small commercial painting, and power washing.\n<span style=\"font-size: 1rem;\"></span></p><p>Residential painting is a great way to give your home the face-lift it needs. Painting can restore and rejuvenate the interior or exterior of your home while also restoring the way you feel about your home. It can add character to any room and has the ability to increase the value of your property as well.\n<span style=\"font-size: 1rem;\"></span></p><p>Small commercial painting focuses on small businesses. A good paint job can increase the curb appeal of your business and increase your customer draw. It can liven up the interior of your building and make it more appealing for potential buyers if you decide that you want to sell.\n<span style=\"font-size: 1rem;\"></span></p><p>Lastly, we provide power washing. Over the years your home and business will become coated in dirt, bacteria, mold, mildew, and other filth. These take away from the appeal of your property and are also hazardous to your health. Power washing is one of the best ways to get rid of this filth. It also helps to maintain your building as well.\n<span style=\"font-size: 1rem;\"></span></p><p>For painting and power washing in Mobile, AL, look no further than RD LOWES, INC. Get in touch with us today.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "stISIg5Omn",
           "_anchor": "content1-r",
           "_protectedParams": [],
@@ -2475,6 +2495,7 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_cid": "stJOiJrDKw",
+          "_anchor": "slider1-17",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -2589,8 +2610,7 @@
                 "overlayOpacity": "0"
               }
             ]
-          },
-          "_anchor": "slider1-17"
+          }
         },
         {
           "_styles": {
@@ -3116,12 +3136,12 @@
           "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/pass-chateau-condos-900-delchamps-ave-dauphin-island-al-36528-2-1340x585.png\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">RENTAL RESTORATION</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Article header with background image and parallax effect\n                </h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "stK0TKlam0",
           "_anchor": "content5-19",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "alias": false,
@@ -3141,12 +3161,12 @@
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>RD LOWES, INC.</b> specializes in Rental Home Restoration.&nbsp; With 25 years experience in the Mobile and Baldwin County areas, we have become the specialists when it comes to refreshing or completely renewing your rental properties.</p><p>We also handle the general maintenance issues for property managers. See below for a full list of our services.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "stK17MWJm8",
           "_anchor": "content1-1a",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "alias": false,
