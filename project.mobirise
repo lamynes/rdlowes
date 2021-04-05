@@ -81,7 +81,7 @@
     "siteUrl": "undefined",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "tthrimy1e3",
+    "mbrsiteDomain": "i6hsjaotyz",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -90,9 +90,9 @@
       "enabled": true,
       "name": "RD LOWES, INC",
       "icon": "@PROJECT_PATH@/assets/images/house-painter-and-decorator-interior-design-services-painter-png-clip-art-removebg-preview2-122x110-512x512.png",
-      "themeColor": "#ffffff"
+      "themeColor": "#9f0a0a"
     },
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -537,6 +537,10 @@
               "text-shadow": "10px 15px 20px #000000"
             },
             "h3": {
+              "font-style": "normal",
+              "text-shadow": "10px 15px 20px #000000"
+            },
+            "p": {
               "font-style": "normal",
               "text-shadow": "10px 15px 20px #000000"
             }
