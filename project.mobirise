@@ -92,7 +92,7 @@
       "icon": "@PROJECT_PATH@/assets/images/house-painter-and-decorator-interior-design-services-painter-png-clip-art-removebg-preview2-122x110-512x512.png",
       "themeColor": "#9f0a0a"
     },
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
