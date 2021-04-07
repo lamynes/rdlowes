@@ -129,7 +129,7 @@
             },
             "h1": {
               "font-style": "normal",
-              "text-shadow": "10px 15px 20px #000000"
+              "text-shadow": "15px 15px 15px #000000"
             },
             "h3": {
               "font-style": "normal",
