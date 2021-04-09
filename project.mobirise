@@ -420,6 +420,9 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "H2": {
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -443,9 +446,9 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/127912838-4632925916782766-819137794196993989-n-960x720.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -454,16 +457,16 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "BEAUTIFY YOUR HOME",
+                "textTitle": "MAKE YOUR HOME NEW AGAIN",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Increase the value of your home",
+                "text": "Painting can restore and rejuvenate the interior or exterior of your home while also restoring the way you feel about your home. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/127934217-4632916493450375-2837051477608458268-n-960x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
