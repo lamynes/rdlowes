@@ -20,7 +20,7 @@
         "display5Font": "Lora",
         "display5Size": 1.5,
         "display7Font": "Lora",
-        "display7Size": "1",
+        "display7Size": "1.15",
         "display4Font": "Lora",
         "display4Size": 1,
         "isRoundedButtons": false,
@@ -81,7 +81,7 @@
     "siteUrl": "undefined",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "3mvzvgluql",
+    "mbrsiteDomain": "umdrhcuyfg",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -423,6 +423,10 @@
             },
             "H2": {
               "color": "#ffffff"
+            },
+            "h2": {
+              "font-style": "normal",
+              "text-shadow": "15px 15px 15px #000000"
             }
           },
           "_name": "slider1",
@@ -446,7 +450,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/127912838-4632925916782766-819137794196993989-n-960x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -543,9 +547,31 @@
                 "text": "Painting is the perfect way to increase the value of your beach getaway.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/wash-home-1-1024x613.jpeg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CwlXkOpGBmM",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "PRESSURE WASHING",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Power washing has the ability to clean your home while also increasing aesthetic appeal and property value.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
               }
             ]
-          }
+          },
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
@@ -1680,7 +1706,7 @@
     },
     "power_washing.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Power washing has the ability to clean your home while also increasing aesthetic appeal and property value. It is one of the most affordable ways to increase property value. 251-471-0028",
         "title": "Power Washing",
         "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/homeguide-pressure-washing-driveway-removing-mildew-and-dirt-1200x800.jpg"
@@ -2867,9 +2893,10 @@
     },
     "rental_restoration.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "WebRD LOWES, INC. specializes in Rental Home Restoration.  With 25 years experience in the Mobile and Baldwin County areas, we have become the specialists when it comes to refreshing or completely renewing your rental properties. 251-471-0028",
         "title": "Rental Restoration",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/pass-chateau-condos-900-delchamps-ave-dauphin-island-al-36528-2-1340x585.png"
       },
       "components": [
         {

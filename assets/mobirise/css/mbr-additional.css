@@ -42,11 +42,11 @@ body {
 }
 .display-7 {
   font-family: 'Lora', serif;
-  font-size: 1rem;
+  font-size: 1.15rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.84rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -531,11 +531,11 @@ a:hover {
 /* Scroll to top button*/
 .form-control {
   font-family: 'Lora', serif;
-  font-size: 1rem;
+  font-size: 1.15rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.84rem;
 }
 blockquote {
   border-color: #9f0a0a;
@@ -900,6 +900,10 @@ section.lazy-placeholder:after {
 }
 .cid-su0i2GCih6 H2 {
   color: #ffffff;
+}
+.cid-su0i2GCih6 h2 {
+  font-style: normal;
+  text-shadow: 15px 15px 15px #000000;
 }
 .cid-stVBTs0qGv {
   padding-top: 60px;
