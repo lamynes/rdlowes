@@ -81,7 +81,7 @@
     "siteUrl": "https://rdlowes.com",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "4t24j7pvqf",
+    "mbrsiteDomain": "ph35g93v8y",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -89,7 +89,7 @@
     "PWA": {
       "enabled": true,
       "name": "RD LOWES, INC",
-      "icon": "@PROJECT_PATH@/assets/images/house-painter-and-decorator-interior-design-services-painter-png-clip-art-removebg-preview2-122x110-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/mbr-620x412-removebg-preview-1-512x512.png",
       "themeColor": "#9f0a0a"
     },
     "publishChangesOnly": true
