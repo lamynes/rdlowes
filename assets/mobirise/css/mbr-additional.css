@@ -4591,8 +4591,15 @@ section.lazy-placeholder:after {
 .cid-suoFijVE8G a.btn-white:not([href]):not([tabindex]) {
   color: #333;
 }
+.cid-suoFijVE8G label {
+  font-style: normal;
+  text-shadow: 5px 5px 15px #000000;
+}
 .cid-suoFijVE8G textarea.form-control {
   min-height: 188px;
+}
+.cid-suoFijVE8G LABEL {
+  color: #ffffff;
 }
 .cid-suoFRVjPJq {
   padding-top: 45px;
