@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RD LOWES, INC",
-    "currentPage": "power_washing.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -71,7 +71,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 126,
+    "uniqCompNum": 127,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/house-painter-and-decorator-interior-design-services-painter-png-clip-art-removebg-preview-526x474-128x115.png",
     "noImageResize": "",
@@ -101,7 +101,7 @@
         "main": true,
         "title": "RD LOWES, INC.",
         "meta_descr": "RD LOWES, INC. is a painting contractor located in Mobile, AL. We have been in business since 1996 and pride ourselves on delivering the best customer service we can. We guarantee your satisfaction with every job and specialize in providing our customers with quality painters and paints, together with a productive system that provides our customers with the perfect combination of cost and quality. We offer residential painting, small commercial painting, and power washing. 251-471-0028",
-        "header_custom": "",
+        "header_custom": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/127912838-4632925916782766-819137794196993989-n-960x720.jpg"
@@ -653,6 +653,21 @@
               }
             ]
           }
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"elfsight-app-5521c6b0-8331-4722-a299-1f5965fa781f\"></div>",
+          "_customCSS": "background-color:white;\npadding:20px;",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "mobirise4",
+          "_anchor": "custom-html-3i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
